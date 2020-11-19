@@ -1,0 +1,4 @@
+Sno,name,Marks,subject
+1,kavya,20,idm
+2,arvind,30,maths
+3,rohith,40,science
